@@ -9,9 +9,9 @@
   -   the basics of java script.
 - 💞️ I’m looking to collaborate on ... python based projects of basically any type!
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/iayoung8505/
-- iayoung8505@gmail.com
-- 7125412487
+  - https://www.linkedin.com/in/iayoung8505/
+  - iayoung8505@gmail.com
+  - 7125412487
 
 <!---
 iayoung85/iayoung85 is a ✨ special ✨ repository because its `aboutme.md` (this file) appears on your GitHub profile.
